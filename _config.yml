@@ -12,9 +12,9 @@ description: "梦想在光电、数字和社会的艺术之间行走"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
+avatar: https://github.com/tianranchunzhen/tianranchunzhen.github.io/blob/master/images/stardust.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/tianranchunzhen/tianranchunzhen.github.io/blob/master/images/%E5%A4%A7%E5%A4%B4%E7%BB%AB%E6%B3%A2%E4%B8%BD.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -22,12 +22,12 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
-  - name: 归档
-    url: /archive
+  - name: 文章
+    url: /blogs
   - name: 标签
     url: /tags
+  - name: 关于
+    url: /about
 
 # Pagination
 paginate: 8
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu: 
+  email: tianranchunzhen@stu.pku.edu.cn
   facebook:
   flickr:
-  github: lemonchann 
+  github: tianranchunzhen
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
