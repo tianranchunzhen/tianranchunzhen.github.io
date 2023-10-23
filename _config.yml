@@ -20,13 +20,11 @@ favicon: https://github.com/tianranchunzhen/tianranchunzhen.github.io/blob/maste
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 文章
-    url: /blogs
-  - name: 标签
-    url: /tags
-  - name: 关于
+  - name: Archives
+    url: /archive
+  - name: About
     url: /about
 
 # Pagination
