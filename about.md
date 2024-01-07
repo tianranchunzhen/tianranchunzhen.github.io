@@ -13,9 +13,9 @@ permalink: /about/
 ## 联系方式
 
 Email:
-- 3298201294@qq.com
+- tianranchunzhen@qq.com
 - tianranchunzhen@stu.pku.edu.cn
-- tianranchunzhen@outlook.com
+- ChengHao_yousa@outlook.com
 
 Address:  
 北京市海淀区颐和园路5号北京大学, 100871
