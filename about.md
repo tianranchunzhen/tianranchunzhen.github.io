@@ -6,16 +6,19 @@ permalink: /about/
 
 ## 关于我
 
-程昊，现为北京大学社会学系社会学专业大四本科生，主要学习领域为计算社会学，擅长R，会Python，在学SQL。学了四年社会学没学明白，但依然心向往之。喜欢游戏，骑车，会剪视频，梦想是开一家自己的面包店。
+天然純真，现为清华大学社会科学学院社会学系博士生，主要学习领域为计算社会学、科学社会学，擅长R，会Python，在学SQL。学了几年社会学也没学太明白，但依然心向往之。喜欢游戏，骑车，会剪视频，梦想是开一家自己的面包店。
 
-网络常用名“天然純真”，希望纯真之心永不会泯灭。
+> 热忱之心不可泯灭  
+> 体恤弱者，互相帮助  
+> 无论与哪国的人们都能成为朋友  
+> 纵使这份感情被背叛过千百回  
+> 这就是我最后的愿望
 
 ## 联系方式
 
 Email:
-- tianranchunzhen@qq.com
-- tianranchunzhen@stu.pku.edu.cn
-- ChengHao_yousa@outlook.com
+- h-cheng24@mails.tsinghua.edu.cn
+- chenghao_yousa@163.com
 
-Address:  
-北京市海淀区颐和园路5号北京大学, 100871
+WeChat:
+- tianranchunzhen
